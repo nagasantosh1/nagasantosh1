@@ -21,7 +21,8 @@ I am an AI/ML Engineer focused on building real-world intelligent systems that s
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/users/nagasantosh1/achievements/quickdraw)
+
 
 ### 🔝 Top Contributed Repo
 ![]([https://github-contributor-stats.vercel.app/api?username=nagasantosh1&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/nagasantosh1/Indido-crew-))
