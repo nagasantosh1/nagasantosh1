@@ -21,7 +21,7 @@ I am an AI/ML Engineer focused on building real-world intelligent systems that s
 
 
 ## 🏆 GitHub Trophies
-![](https://github.com/users/nagasantosh1/achievements/quickdraw)
+
 
 
 ### 🔝 Top Contributed Repo
